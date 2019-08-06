@@ -10,7 +10,7 @@
 <!-- Add all the characters in a single group, so that if transforation is done
 at any instance of its usage, the transformation should get applied to 
 all characters uniformly. -->
-<g stroke="#000000" stroke-width="68" fill="none" stroke-linejoin="itter">
+<g stroke="#000000" stroke-width="68" fill="none" stroke-linejoin="miter">
 <!-- ####################################################################### -->
 <!-- J -->
 <path d="
